@@ -1,4 +1,4 @@
-# io.github.cap10morgan/parse-date-time
+# parse-date-time
 
 The new-in-Java-8 java.time library is certainly an improvement over what came
 before, but there are still some rough edges; especially for Clojure
